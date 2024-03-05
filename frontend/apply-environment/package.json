@@ -1,0 +1,14 @@
+{
+  "name": "apply-environment",
+  "version": "1.0.0",
+  "main": "dist/apply-environment.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@types/fs-extra": "^11.0.4",
+    "@types/node": "^20.11.24",
+    "fs-extra": "^11.2.0",
+    "typescript": "^5.3.3"
+  }
+}
